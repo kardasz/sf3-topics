@@ -439,13 +439,24 @@ To sum up, a bridge extends some components and a bundle adds features to the ap
 
 ## URLs generation
 
+* http://symfony.com/doc/current/routing.html#generating-urls-from-a-template
+* http://symfony.com/doc/current/templating.html#linking-to-pages
+
 ## Controller rendering
+
+* http://symfony.com/doc/current/templating.html#embedding-controllers
 
 ## Translations and pluralization
 
+* http://symfony.com/doc/current/translation.html#translations-in-templates
+
 ## String interpolation
 
+* https://twig.sensiolabs.org/doc/2.x/templates.html#string-interpolation
+
 ## Assets management
+
+* http://symfony.com/doc/current/best_practices/web-assets.html
 
 ## Debugging variables
 
