@@ -1,3 +1,10 @@
+# Additionall resources
+
+* https://github.com/raulconti/symfony-3-certification-guide
+* https://github.com/ThomasBerends/symfony-certification-preparation-list
+
+
+
 # PHP and Web Security
 
 ## PHP 5.3 to PHP 5.6 API
@@ -263,12 +270,21 @@ To sum up, a bridge extends some components and a bundle adds features to the ap
 ## Code organization
 
 * http://symfony.com/doc/3.0/bundles/best_practices.html#directory-structure 
+* https://symfony.com/doc/current/bundles.html#bundle-directory-structure
+
 
 ## Controllers
 
+* https://symfony.com/doc/current/bundles/best_practices.html#classes
+* http://symfony.com/doc/current/controller.html
+
 ## The views
 
+* http://symfony.com/doc/current/quick_tour/the_view.html
+
 ## The resources
+
+* http://symfony.com/doc/current/best_practices/web-assets.html
 
 ## Overriding default error pages
 
@@ -280,57 +296,118 @@ To sum up, a bridge extends some components and a bundle adds features to the ap
 
 ## Event dispatcher and kernel events
 
+* https://symfony.com/doc/current/reference/events.html
+* http://symfony.com/doc/current/event_dispatcher.html
+
 ## Semantic configuration and compiler passes
+
+* http://symfony.com/doc/current/service_container/compiler_passes.html
+* http://symfony.com/doc/current/components/dependency_injection/compilation.html
 
 # Controllers
 
 ## Naming conventions
 
+* http://symfony.com/doc/current/routing.html#controller-string-syntax
+
 ## The base Controller class
+
+* http://symfony.com/doc/current/controller.html#the-base-controller-classes-services
 
 ## The request
 
+* http://symfony.com/doc/current/controller.html#the-request-object-as-a-controller-argument
+* http://symfony.com/doc/current/controller.html#the-request-and-response-object
+
 ## The response
+
+* http://symfony.com/doc/current/controller.html#the-request-and-response-object
+* http://symfony.com/doc/current/components/http_foundation.html#response
 
 ## The cookies
 
+* http://symfony.com/doc/current/components/http_foundation.html#accessing-request-data
+* http://symfony.com/doc/current/components/http_foundation.html#setting-cookies
+
 ## The session
+
+* http://symfony.com/doc/current/controller.html#managing-the-session
+* http://symfony.com/doc/current/components/http_foundation/sessions.html
 
 ## The flash messages
 
+* http://symfony.com/doc/current/controller.html#flash-messages
+* http://symfony.com/doc/current/components/http_foundation/sessions.html#flash-messages
+
 ## HTTP redirects
+
+* http://symfony.com/doc/current/controller.html#redirecting
 
 ## Internal redirects
 
+* http://symfony.com/doc/current/controller/forwarding.html
+
 ## Generate 404 pages
+
+* http://symfony.com/doc/current/controller.html#managing-errors-and-404-pages
+* http://symfony.com/doc/current/controller/error_pages.html
 
 ## File upload
 
+* https://symfony.com/doc/current/controller/upload_file.html
+
 ## Built-in internal controllers
+
+* http://symfony.com/doc/current/controller.html#the-base-controller-classes-services
 
 # Routing
 
 ## Configuration (YAML, XML, PHP & annotations)
 
+* http://symfony.com/doc/current/routing.html#routing-examples
+
 ## Restrict URL parameters
+
+* http://symfony.com/doc/current/routing.html#adding-wildcard-requirements
 
 ## Set default values to URL parameters
 
+* http://symfony.com/doc/current/routing.html#giving-placeholders-a-default-value
+
 ## Generate URL parameters
+
+* http://symfony.com/doc/current/routing.html#generating-urls
 
 ## Trigger redirects
 
+* http://symfony.com/doc/current/routing/redirect_in_config.html
+* http://symfony.com/doc/current/routing/redirect_trailing_slash.html
+* http://symfony.com/doc/current/controller.html#redirecting
+
 ## Special internal routing attributes
+
+* https://symfony.com/doc/current/routing/extra_information.html
 
 ## Domain name matching
 
+* https://symfony.com/doc/current/routing/hostname_pattern.html
+
 ## Conditional request matching
+
+* http://symfony.com/doc/current/routing/conditions.html
 
 ## HTTP methods matching
 
+* http://symfony.com/doc/current/routing/requirements.html#adding-http-method-requirements
+* http://symfony.com/doc/current/components/routing.html
+
 ## User's locale guessing
 
+* http://symfony.com/doc/current/routing.html#advanced-routing-example
+
 ## Router debugging
+
+* https://symfony.com/doc/current/routing/debug.html
 
 # Templating with Twig
 
